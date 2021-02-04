@@ -1,0 +1,2 @@
+*Panel Prambanan: Singa dan Kalpataru*
+Di dinding luar sebelah bawah candi dihiasi oleh barisan relung (ceruk) yang menyimpan arca singa diapit oleh 2 panel yang menggambarkan pohon hayat kalpataru. Pohon suci ini dalam mitologi Hindu-Buddha dianggap pohon yang dapat memenuhi harapan dan kebutuhan manusia. Pola singa diappit kalpataru adalah pola khas yang hanya ditemukan di Prambanan, karena itulah disebut "Panel Prambanan". 

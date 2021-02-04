@@ -1,0 +1,23 @@
+Id;tag;Keyword;Alias;Jawaban
+0;1;fungsi;guna,manfaat;@fungsi
+1;1;nama asli;orisinal, original;@sejarah
+2;1;pengertian;adalah, pengetahuan;@sejarah
+3;1;fasilitas;akomodasi, prasarana, layanan;@fasilitas
+4;1;sejarah;histori, asal usul, riwayat;@sejarah
+5;1;jenis;macam, ragam, kompleks;@komplekscandi
+6;1;informasi;pengumuman, kabar;@informasi
+7;1;untuk;untuk;@sejarah
+8;2;bangun;buat, bikin;@sejarah
+9;2;buka;bekerja, aktif;@jadwalcapram
+10;2;temu;temu;candi prambanan ditemukan pada tahun 856 M
+11;3;trimurti;panggung;terdapat didalam gedung Sandratari Ramayana prambanan
+12;3;lokasi;tempat, letak, posisi;@alamatcandi
+13;3;toilet;kamarmandi, wc, km;selatan taman rusa
+14;3;alamat;lokasi, tempat, letak;@alamatcandi
+15;3;arkeolog;museum;terdapat didalam museum candi
+16;3;mushola;masjid, tempat sholat;utara taman rusa
+17;3;restoran;tempat makan, resto;utara taman rusa
+18;3;sewa pemandu;pramuwisata, tour guide;sekitaran candi roro jonggrang
+19;3;tempat parkir;parkir kendaraan;selatan taman rusa
+20;3;spot foto;foto, pemandangan;sekitaran candi roro jonggrang
+21;3;toko souvenir;oleh-oleh, belanja;selatan taman rusa

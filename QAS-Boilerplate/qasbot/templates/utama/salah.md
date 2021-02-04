@@ -1,0 +1,1 @@
+Maaf, command yang kamu masukkan tidak ada. Kirim perintah /sejarah, /legenda, /alamat atau /tanyalain untuk menu atau _ketik pertanyaan apapun_

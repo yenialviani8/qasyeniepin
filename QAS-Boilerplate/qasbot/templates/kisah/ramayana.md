@@ -1,0 +1,2 @@
+*ramayana dan krishnayana*
+Candi Prambanan ini dihiasi relief naratif yang menceritakan epos Hindu; Ramayana dan Krishnayana. Relief Ramayana menggambarkan bagaimana Shinta, istri Rama, diculik oleh Rahwana. Panglima bangsa wanara (kera Hanuman, datang ke Alengka untuk membantu Rama mencari Shinta. Kisah ini juga ditampilkan dalam Sendratari Ramayana. 
