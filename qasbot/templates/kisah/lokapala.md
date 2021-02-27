@@ -1,0 +1,2 @@
+*lokapala, brahma, dan dewata*
+Di seberang panel naratif relief, di atas tembok tubuh candi di sepanjang galeri dihiasi arca-arca dan relief yang menggambarkan para dewata dan resi brahmana. Arca dewa-dewa lokapala, dewa surgawi penjaga penjuru mata angin dapat ditemukan di Candi Siwa. Sementara arca para brahmana penyusun kitab Weda terdapat di Candi Brahma. Di Candi Wisnu terdapat arca dewata yang diapit oleh 2 aspara atau bidadari kahyangan. 

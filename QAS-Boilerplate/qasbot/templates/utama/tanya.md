@@ -1,3 +1,0 @@
-*Tanya*
-
-silahkan tanyakan apapun.
