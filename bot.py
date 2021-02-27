@@ -1,4 +1,3 @@
-
 import qasbot
 
 # Ubah token disini

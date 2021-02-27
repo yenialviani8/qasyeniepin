@@ -39,16 +39,16 @@ class Engine:
         elif tag == "dimana":
             tag = 3
         else:
-            return "Kamu mau tanya apa sii | " + tag 
+            return False, "Kamu mau tanya apa sii | " + tag 
 
         db = self.database
         db = db[db.tag == tag]
         print (db)
         for i in txt [1:]:
             print (i)
-            for index, row in db.iterrows():
+            for _, row in db.iterrows():
 
                 words  = [x.strip()for x in row['words'].split(',') if x!='']
                 if i in words:
-                    return row['Jawaban']
-        return "tidak ada jawaban"
+                    return True, row['Jawaban']
+        return False, "tidak ada jawaban"

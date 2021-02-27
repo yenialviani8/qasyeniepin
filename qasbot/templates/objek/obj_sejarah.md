@@ -1,4 +1,5 @@
 *Sejarah Candi Prambanan*
+
 Ajaran agama Hindu memiliki tiga dewa utama yaitu Brahma (dewa pencipta), Wishnu (dewa pemelihara), dan Siwa (dewa pemusnah). Candi Prambanan dibangun untuk memuliakan dewa Siwa. Itu sebabnya nama asli Candi Prambanan adalah Siwagrha yang berarti "Rumah Siwa".
 
 Candi Prambanan dibangun oleh wangsa atau dinasti Sanjaya dalam rentang waktu yang mirip dengan Candi Borobudur yaitu sekitar abad ke-8 dan ke-9 masehi. Tujuannya adalah untuk menandingi kemegahan Candi Borobudur yang dibangun oleh wangsa atau dinasti Syailendra yang beragama Budha.
