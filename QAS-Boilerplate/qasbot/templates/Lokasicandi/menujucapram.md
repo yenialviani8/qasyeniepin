@@ -1,2 +1,0 @@
-*Cara Menuju Lokasi Candi Prambanan* 
-Kota Terdekat dari Prambanan adalah Yogyakarta (17 km barat daya) dan Klaten (3 km utara). Candi Prambanan mudah diakses karena berada di jalan raya Solo - Yogya. Dari kota Yogyakarta anda dapat menggunakan transportasi umum Transjogja yang berhenti di halte pasar Prambanan. Semua bus antar kota jurusan Solo juga bisa mengantar anda sampai depan candi Prambanan.

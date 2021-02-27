@@ -1,1 +1,0 @@
-Candi Prambanan terdiri atas halaman luar dan tiga pelataran yaitu pelataran luar, pelataran tengah, pelataran dalam. Halaman luar mempunyai luas 390m2, Pelataran luar saat ini kosong, pelataran tengah 222m2, dan pelataran dalam 110m2. 
