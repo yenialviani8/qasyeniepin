@@ -12,9 +12,9 @@ class Engine:
     def __init__(self):
         df = pd.read_csv(file_name,delimiter=';', header=0, index_col=0)
         print(df.columns)
-        df['words'] = df["Keyword"]
-        df['alias'] = df["Alias"]
-        df.drop(columns=['Alias', 'Keyword'], inplace=True)
+        df['obj'] = df["object"]
+        df['keys'] = df["keywords"]
+        df.drop(columns=['object', 'keywords'], inplace=True)
         self.database = df
         self.stemmer = StemmerFactory().create_stemmer()
         pass
@@ -48,10 +48,10 @@ class Engine:
         db = db[db.tag == tag] 
         for i in txt [1:]: 
             for _, row in db.iterrows():
-                words  = [x.strip()for x in row['words'].split(',') if x!='']
+                words  = [x.strip()for x in row['obj'].split(',') if x!='']
                 if i in words:
-                    alias = [x.strip()for x in row['alias'].split(',') if x!='']
+                    alias = [x.strip()for x in row['keys'].split(',') if x!='']
                     for j in alias:
                         if j in txt[1:]:
-                            return True, row['Jawaban']
+                            return True, row['response']
         return False, "tidak ada jawaban"

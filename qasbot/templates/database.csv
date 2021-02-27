@@ -1,4 +1,4 @@
-Id;tag;Keyword;Alias;Jawaban
+Id;tag;object;keywords;response
 0;1;candi;guna,fungsi,manfaat;@obj_fungsi
 1;1;candi;orisinal, original;@obj_sejarah
 2;1;candi;adalah, pengertian, pengetahuan;@obj_sejarah
