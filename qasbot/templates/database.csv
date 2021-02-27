@@ -1,14 +1,14 @@
 Id;tag;Keyword;Alias;Jawaban
-0;1;fungsi;guna,manfaat;@obj_fungsi
-1;1;nama;orisinal, original;@obj_sejarah
-2;1;pengertian;adalah, pengetahuan;@obj_sejarah
+0;1;candi;guna,fungsi,manfaat;@obj_fungsi
+1;1;candi;orisinal, original;@obj_sejarah
+2;1;candi;adalah, pengertian, pengetahuan;@obj_sejarah
 3;1;fasilitas;akomodasi, prasarana, layanan;@obj_fasilitas
 4;1;sejarah;histori, asal usul, riwayat;@obj_sejarah
 5;1;jenis;macam, ragam, kompleks;@loc_komplekscandi
 6;1;informasi;pengumuman, kabar;@obj_informasi
-7;1;untuk;untuk;@obj_sejarah
+7;1;arca;cerita;@sto_arca
 8;2;candi;buat, bikin;@obj_sejarah
-9;2;buka;bekerja, aktif;@tim_jadwalcapram
+9;2;candi;buka, aktif;@tim_jadwalcapram
 10;2;temu;temu;candi prambanan ditemukan pada tahun 856 M
 11;3;trimurti;panggung;terdapat didalam gedung Sandratari Ramayana prambanan
 12;3;candi;tempat, letak, posisi;@loc_alamat
