@@ -1,23 +1,23 @@
 Id;tag;Keyword;Alias;Jawaban
 0;1;fungsi;guna,manfaat;@obj_fungsi
-1;1;nama asli;orisinal, original;@obj_sejarah
+1;1;nama;orisinal, original;@obj_sejarah
 2;1;pengertian;adalah, pengetahuan;@obj_sejarah
 3;1;fasilitas;akomodasi, prasarana, layanan;@obj_fasilitas
 4;1;sejarah;histori, asal usul, riwayat;@obj_sejarah
 5;1;jenis;macam, ragam, kompleks;@loc_komplekscandi
 6;1;informasi;pengumuman, kabar;@obj_informasi
 7;1;untuk;untuk;@obj_sejarah
-8;2;bangun;buat, bikin;@obj_sejarah
+8;2;candi;buat, bikin;@obj_sejarah
 9;2;buka;bekerja, aktif;@tim_jadwalcapram
 10;2;temu;temu;candi prambanan ditemukan pada tahun 856 M
 11;3;trimurti;panggung;terdapat didalam gedung Sandratari Ramayana prambanan
-12;3;lokasi;tempat, letak, posisi;@loc_alamat
-13;3;toilet;kamarmandi, wc, km;selatan taman rusa
-14;3;alamat;lokasi, tempat, letak;@loc_alamat
+12;3;candi;tempat, letak, posisi;@loc_alamat
+13;3;toilet;tempat, letak, posisi;@loc_toilet
+14;3;souvenir;oleh-oleh, belanja;selatan taman rusa
 15;3;arkeolog;museum;terdapat didalam museum candi
 16;3;mushola;masjid, tempat sholat;utara taman rusa
 17;3;restoran;tempat makan, resto;utara taman rusa
 18;3;sewa pemandu;pramuwisata, tour guide;sekitaran candi roro jonggrang
-19;3;tempat parkir;parkir kendaraan;selatan taman rusa
-20;3;spot foto;foto, pemandangan;sekitaran candi roro jonggrang
-21;3;toko souvenir;oleh-oleh, belanja;selatan taman rusa
+19;3;parkir;parkir kendaraan;selatan taman rusa
+20;3;foto;foto, pemandangan;sekitaran candi roro jonggrang
+21;4;tiket;harga;@obj_tiketcandi

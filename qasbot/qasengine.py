@@ -12,7 +12,8 @@ class Engine:
     def __init__(self):
         df = pd.read_csv(file_name,delimiter=';', header=0, index_col=0)
         print(df.columns)
-        df['words'] = df["Keyword"] + ', ' + df["Alias"]
+        df['words'] = df["Keyword"]
+        df['alias'] = df["Alias"]
         df.drop(columns=['Alias', 'Keyword'], inplace=True)
         self.database = df
         self.stemmer = StemmerFactory().create_stemmer()
@@ -27,28 +28,30 @@ class Engine:
         return self.stemmer.stem(teks)
 
     def Parse(self, teks):
-        
-        txt = self.Stem(teks)
-        txt = self.Tokenize(txt)
-        tag = txt[0]
-        print (txt)
+        # [tag] [pred] [object]?
+        txt = self.Tokenize(teks)
+        tag = txt[0] 
         if tag == "apa": 
             tag = 1
         elif tag == "kapan":
             tag = 2
-        elif tag == "dimana":
+        elif (tag == "dimana") or (tag == "mana"):
             tag = 3
+        elif (tag == "berapa"):
+            tag = 4
         else:
             return False, "Kamu mau tanya apa sii | " + tag 
+        txt = self.Stem(teks)
+        txt = self.Tokenize(txt) 
 
         db = self.database
-        db = db[db.tag == tag]
-        print (db)
-        for i in txt [1:]:
-            print (i)
+        db = db[db.tag == tag] 
+        for i in txt [1:]: 
             for _, row in db.iterrows():
-
                 words  = [x.strip()for x in row['words'].split(',') if x!='']
                 if i in words:
-                    return True, row['Jawaban']
+                    alias = [x.strip()for x in row['alias'].split(',') if x!='']
+                    for j in alias:
+                        if j in txt[1:]:
+                            return True, row['Jawaban']
         return False, "tidak ada jawaban"
