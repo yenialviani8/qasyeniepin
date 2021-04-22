@@ -1,23 +1,29 @@
 Id;tag;object;keywords;response
 0;1;candi;guna,fungsi,manfaat;@obj_fungsi
 1;1;candi;orisinal, original;@obj_sejarah
-2;1;candi;adalah, pengertian, pengetahuan;@obj_sejarah
-3;1;fasilitas;akomodasi, prasarana, layanan;@obj_fasilitas
-4;1;sejarah;histori, asal usul, riwayat;@obj_sejarah
-5;1;jenis;macam, ragam, kompleks;@loc_komplekscandi
-6;1;informasi;pengumuman, kabar;@obj_informasi
-7;1;arca;cerita;@sto_arca
-8;2;candi;buat, bikin;@obj_sejarah
-9;2;candi;buka, aktif;@tim_jadwalcapram
-10;2;temu;temu;candi prambanan ditemukan pada tahun 856 M
-11;3;trimurti;panggung;terdapat didalam gedung Sandratari Ramayana prambanan
-12;3;candi;tempat, letak, posisi;@loc_alamat
-13;3;toilet;tempat, letak, posisi;@loc_toilet
-14;3;souvenir;oleh-oleh, belanja;selatan taman rusa
-15;3;arkeolog;museum;terdapat didalam museum candi
-16;3;mushola;masjid, tempat sholat;utara taman rusa
-17;3;restoran;tempat makan, resto;utara taman rusa
-18;3;sewa pemandu;pramuwisata, tour guide;sekitaran candi roro jonggrang
-19;3;parkir;parkir kendaraan;selatan taman rusa
-20;3;foto;foto, pemandangan;sekitaran candi roro jonggrang
-21;4;tiket;harga;@obj_tiketcandi
+2;1;candi;erti;@obj_pengertian
+3;1;candi;akomodasi, fasilitas, prasarana, layanan;@obj_fasilitas
+4;1;candi;histori, sejarah, asal usul, riwayat;@obj_sejarah
+5;1;candi;macam, jenis, ragam, kompleks;@loc_komplekscandi
+6;1;candi;informasi, pengumuman, kabar;@obj_informasi
+7;1;arca;cerita, kisah;@sto_arca
+8;1;lokapala;cerita, kisah;@sto_lokapala
+9;1;panel;cerita, kisah;@sto_panel
+10;1;ramayana;cerita, kisah;@sto_ramayana
+11;1;restorasi;cerita, kisah;@restorasi
+12;1;candi;nama;Siwagrha (Rumah Siwa) atau siwalaya (alam siwa)
+12;2;candi;buat, bikin;@obj_sejarah
+13;2;candi;buka, aktif;@tim_jadwalcapram
+14;2;candi;temu;candi prambanan ditemukan pada tahun 856 M
+15;3;trimurti;panggung;panggung trimurti terdapat didalam gedung Sandratari Ramayana prambanan
+16;3;candi;tempat, letak, posisi;@loc_alamat
+17;3;toilet;tempat, letak, posisi;@loc_toilet
+18;3;souvenir;souvenir;selatan taman rusa
+19;3;arkeolog;museum;terdapat didalam museum candi
+20;3;mushola;mushola;utara taman rusa
+21;3;restoran;restoran;utara taman rusa
+22;3;sewa;sewa;sekitaran candi roro jonggrang
+23;3;parkir;parkir;selatan taman rusa
+24;3;foto;foto;sekitaran candi roro jonggrang
+25;4;tiket;tiket,harga;#obj_tiketcandi
+26;2;candi;bangun;Candi Prambanan di bangun pada tahun 851 M

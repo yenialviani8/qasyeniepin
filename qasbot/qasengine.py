@@ -6,8 +6,8 @@ class Engine:
     tags = {
         1:"Apa",
         2:"Kapan",
-        3:"Dimana" 
-        
+        3:"Dimana",
+        4:"Berapa" 
     }
     def __init__(self):
         df = pd.read_csv(file_name,delimiter=';', header=0, index_col=0)
@@ -37,10 +37,11 @@ class Engine:
             tag = 2
         elif (tag == "dimana") or (tag == "mana"):
             tag = 3
-        elif (tag == "berapa"):
+        elif tag == "berapa":
             tag = 4
+
         else:
-            return False, "Kamu mau tanya apa sii | " + tag 
+            return False, "Kamu mau tanya apa  | " + tag 
         txt = self.Stem(teks)
         txt = self.Tokenize(txt) 
 

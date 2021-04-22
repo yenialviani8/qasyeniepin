@@ -1,23 +1,24 @@
 Id;Keyword;Jawaban
 1;fungsi;#fungsi
-2;nama asli;#sejarah
-3;pengertian;#sejarah
+2;nama asli;#Siwagrha (Rumah Siwa) atau siwalaya (alam siwa)
+3;ngerti;#pengertian
 4;fasilitas;#fasilitas
 5;sejarah;#sejarah
 6;jenis;#komplekscandi
-7;informasi;#informasi
+7;informasi candi;#informasi
 8;untuk;#sejarah
-9;bangun;#sejarah
-10;buka;#jadwalcapram
-11;temu;candi prambanan ditemukan pada tahun 856 M
-12;trimurti;terdapat didalam gedung Sandratari Ramayana prambanan
-13;lokasi;#alamatcandi
-14;toilet;selatan taman rusa
-15;alamat;#alamatcandi
-16;arkeolog;terdapat didalam museum candi
-17;mushola;utara taman rusa
-18;restoran;utara taman rusa
-19;sewa pemandu;sekitaran candi roro jonggrang
-20;tempat parkir;selatan taman rusa
-21;spot foto;sekitaran candi roro jonggrang
-22;toko souvenir;selatan taman rusa
+9;buka;#jadwalcapram
+10;temu;candi prambanan ditemukan pada tahun 856 M
+11;trimurti;terdapat didalam gedung Sandratari Ramayana prambanan
+12;lokasi;#alamatcandi
+13;toilet;selatan taman rusa
+14;alamat;#alamatcandi
+15;arkeolog;terdapat didalam museum candi
+16;masjid;utara taman rusa
+17;restoran;utara taman rusa
+18;sewa pemandu;sekitaran candi roro jonggrang
+19;tempat parkir;selatan taman rusa
+20;spot foto;sekitaran candi roro jonggrang
+21;souvenir;selatan taman rusa
+22;kompleks candi;#loc_komplekscandi
+23;tiket;#obj_tiketcandi

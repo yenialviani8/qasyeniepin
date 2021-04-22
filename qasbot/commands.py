@@ -23,7 +23,7 @@ def TampilTemplate(update, nama ):
      parse_mode=mode, reply_markup=markup) 
     
 def mulai(update, context):
-    TampilTemplate(update,'#pembuka' )  
+    TampilTemplate(update,'#pembuka' )
     return CHOOSING
 
 
@@ -31,10 +31,10 @@ def tanya_jawab(update, context):
     text = update.message.text
     text = text.lower()
     if text in ['gajadi', 'batal', 'malu', 'nanti aja']:
-        update.message.reply_text('Yaudah gapapa...', reply_markup=markup) 
+        update.message.reply_text('Bye :)', reply_markup=markup) 
         return CHOOSING
     
-    update.message.reply_text('Mohon Tunggu Sebentar yaa...') 
+    update.message.reply_text('Tunggu sebentar yaa :)') 
     state, text = engine.Parse(text)
     if state:
         TampilTemplate(update, text)
@@ -43,7 +43,7 @@ def tanya_jawab(update, context):
     return TYPING_CHOICE
 
 def info_umum(update, context): 
-    update.message.reply_text('Okey silahkan tanyakan apapun...', reply_markup=tanya_markup)
+    update.message.reply_text('Silahkan bertanya :)', reply_markup=tanya_markup)
     return TYPING_CHOICE
 
 def selesai(update, context):
